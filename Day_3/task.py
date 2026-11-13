@@ -13,3 +13,5 @@ print(3>6 and 4>=4)
 # print(3>6 and 4>=4 and 5<8) 
 print(3>6 or 4>=4 or 5<8) 
 print(3>6 or 4>=4 and 5<8) 
+
+print(not 3>6 or 4>=4 and 5<8) 
